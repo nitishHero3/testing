@@ -1,0 +1,1 @@
+print("thik thik")
